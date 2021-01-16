@@ -21,7 +21,7 @@ plugins:             [jekyll-paginate, jekyll-sitemap, jekyll-feed, jekyll-seo-t
 
 # Customise atom feed settings (this is where Jekyll-Feed gets configuration information)
 title:               'Actividad Kubernetes, Docker, Openshift y CoreOS repositorios Git'
-description:         'Análisis de repositorios de proyectos ce Software Libre'
+description:         'Análisis de repositorios de proyectos Software Libre'
 author:              'Alex Martínez'
 
 # RSS 2.0 can be used instead of Atom by uncommenting following two lines
