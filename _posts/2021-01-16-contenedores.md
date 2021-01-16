@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "About the Author"
+title: "Analisis Actividad desarrolladores Kubernetes Openshif Docker"
 author: "Paul Le"
 categories: journal
 tags: [documentation,sample]
