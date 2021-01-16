@@ -20,8 +20,8 @@ permalink:           none
 plugins:             [jekyll-paginate, jekyll-sitemap, jekyll-feed, jekyll-seo-tag]
 
 # Customise atom feed settings (this is where Jekyll-Feed gets configuration information)
-title:               'Actividad de los Repositorios Git'
-description:         'Análisis de repositorios de proyectos Software Libre'
+title:               'Analisis de la Actividad de los Repositorios Git'
+description:         'Proyectos de Software Libre'
 author:              'Alex Martínez'
 
 # RSS 2.0 can be used instead of Atom by uncommenting following two lines
