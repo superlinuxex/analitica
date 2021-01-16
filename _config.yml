@@ -20,7 +20,7 @@ permalink:           none
 plugins:             [jekyll-paginate, jekyll-sitemap, jekyll-feed, jekyll-seo-tag]
 
 # Customise atom feed settings (this is where Jekyll-Feed gets configuration information)
-title:               'Actividad de los repositorios git de proyectos de Contenedores'
+title:               'Actividad Kubernetes, Docker, Openshift y CoreOS repositorios Git'
 description:         'Análisis de repositorios de proyectos ce Software Libre'
 author:              'Alex Martínez'
 
