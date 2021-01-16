@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Analisis Actividad desarrolladores Kubernetes Openshif Docker"
+title: "Analisis Actividad desarrolladores Kubernetes, Openshif y Docker"
 author: "Alex Martínez"
 categories: journal
 tags: [documentation,sample]
