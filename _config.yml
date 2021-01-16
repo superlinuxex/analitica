@@ -20,7 +20,7 @@ permalink:           none
 plugins:             [jekyll-paginate, jekyll-sitemap, jekyll-feed, jekyll-seo-tag]
 
 # Customise atom feed settings (this is where Jekyll-Feed gets configuration information)
-title:               'Analisis de la Actividad de los Repositorios Git'
+title:               'Analisis de la Actividad Repositorios Git'
 description:         'Proyectos de Software Libre'
 author:              'Alex Martínez'
 
