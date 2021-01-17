@@ -1,7 +1,7 @@
 ---
 layout: post
-title: "Welcome to Lagrange!"
-author: "Paul Le"
+title: "Bienvenido al análisis de repositorios Git!"
+author: "Alex Martinez"
 categories: journal
 tags: [documentation,sample]
 image: mountains.jpg
