@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Getting Started"
+title: "Iniciando"
 author: "Paul Le"
 categories: journal
 tags: [documentation,sample]
